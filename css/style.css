@@ -41,7 +41,7 @@ header img {
 
 /* CONTAINER BODY */
 .banner-inverti-con-nosotros{
-    background-image: url(../images/banner-inverti-con-nosotros.png);
+    background-image: url(../Images/banner-inverti-con-nosotros.png);
     background-position: center;
     background-repeat: no-repeat;
     height: 600px;
@@ -309,7 +309,7 @@ p{
     background-repeat: no-repeat;
     height: 600px;
     line-height: 1,5;
-    background-image: url(../images/fondo-inversion.png);
+    background-image: url(../Images/fondo-inversion.png);
 }
 
 .por-que-invertir-1  .por-que-invertir ul{
